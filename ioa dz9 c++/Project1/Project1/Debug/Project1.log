@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\documents\ioa dz\ioa dz9 c++\project1\project1\source.cpp(34): warning C4101: 'pob': unreferenced local variable
+d:\documents\ioa dz\ioa dz9 c++\project1\project1\source.cpp(34): warning C4101: 'parr': unreferenced local variable
+d:\documents\ioa dz\ioa dz9 c++\project1\project1\source.cpp(34): warning C4101: 'cnt': unreferenced local variable
+d:\documents\ioa dz\ioa dz9 c++\project1\project1\source.cpp(34): warning C4101: 'x': unreferenced local variable
+  Project1.vcxproj -> D:\Documents\ioa dz\ioa dz9 c++\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Documents\ioa dz\ioa dz9 c++\Project1\Debug\Project1.pdb (Partial PDB)

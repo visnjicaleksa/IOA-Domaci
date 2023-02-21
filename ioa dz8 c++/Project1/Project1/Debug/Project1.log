@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(111): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(40): warning C4101: 'parr': unreferenced local variable
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(40): warning C4101: 'cnt': unreferenced local variable
+d:\documents\ioa dz\ioa dz8 c++\project1\project1\source.cpp(40): warning C4101: 'x': unreferenced local variable
+  Project1.vcxproj -> D:\Documents\ioa dz\ioa dz8 c++\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Documents\ioa dz\ioa dz8 c++\Project1\Debug\Project1.pdb (Partial PDB)

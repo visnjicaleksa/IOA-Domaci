@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\documents\visual studio 2017\projects\project3\project3\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2017\projects\project3\project3\source.cpp(17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\documents\visual studio 2017\projects\project3\project3\source.cpp(32): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+d:\documents\visual studio 2017\projects\project3\project3\source.cpp(33): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+d:\documents\visual studio 2017\projects\project3\project3\source.cpp(34): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Project3.vcxproj -> D:\Documents\Visual Studio 2017\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> D:\Documents\Visual Studio 2017\Projects\Project3\Debug\Project3.pdb (Partial PDB)

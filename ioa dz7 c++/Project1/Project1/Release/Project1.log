@@ -1,0 +1,11 @@
+﻿  Source.cpp
+Source.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+Source.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 222 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Aleksa\Desktop\ioadz7c++\Project1\Release\Project1.exe

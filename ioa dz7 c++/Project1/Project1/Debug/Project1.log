@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\aleksa\desktop\ioadz7c++\project1\project1\source.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aleksa\desktop\ioadz7c++\project1\project1\source.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aleksa\desktop\ioadz7c++\project1\project1\source.cpp(34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\aleksa\desktop\ioadz7c++\project1\project1\source.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Aleksa\Desktop\ioadz7c++\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Aleksa\Desktop\ioadz7c++\Project1\Debug\Project1.pdb (Partial PDB)
